@@ -24,18 +24,18 @@
 .b p
 {
   
-  display:flex;
-  padding-top:10%;
-  margin-left:20px;
-  font-style:arial;
-  font-style:bold;
-  justify-content:center;
-  position:relative;
-  width:255px;
-  height:290px;
-  background-color:#fff;
-  border-radius:27px;
-  color:black;
+ display: flex;
+    padding-top: 10%;
+    margin-left: 20px;
+    font-style: arial;
+    font-style: bold;
+    justify-content: center;
+    position: relative;
+    width: 405px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 27px;
+    color: black;
   
 }
 .b
